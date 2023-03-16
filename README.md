@@ -9,4 +9,4 @@ Examen de primer momento -- nuevas tecnologías, Jueves 6am.
 * Métodos en listas
 ## Integrantes
 * Juan Pablo Jaramillo
-* Rudd Rodriguez
+* Ruddy Rodriguez
